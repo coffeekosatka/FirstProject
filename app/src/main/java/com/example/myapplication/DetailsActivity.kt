@@ -25,4 +25,9 @@ class DetailsActivity : AppCompatActivity() {
             startActivity(intent)
         }
     }
+
+    fun test()
+    {
+
+    }
 }
